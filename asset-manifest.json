@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/markan-where/static/css/main.39fd6a81.css",
-    "main.js": "/markan-where/static/js/main.06bee27f.js",
+    "main.js": "/markan-where/static/js/main.506b51fe.js",
     "static/media/Oakes-Grotesk-Bold.ttf": "/markan-where/static/media/Oakes-Grotesk-Bold.a6b9f0fbd8198bd97c6d.ttf",
     "static/media/Satoshi-Medium.ttf": "/markan-where/static/media/Satoshi-Medium.759562088ba19068aef8.ttf",
     "static/media/Satoshi-Bold.ttf": "/markan-where/static/media/Satoshi-Bold.137a52d9f47dd71c6247.ttf",
@@ -11,10 +11,10 @@
     "static/media/Satoshi-Bold.woff2": "/markan-where/static/media/Satoshi-Bold.a0e6d25529eab537426c.woff2",
     "index.html": "/markan-where/index.html",
     "main.39fd6a81.css.map": "/markan-where/static/css/main.39fd6a81.css.map",
-    "main.06bee27f.js.map": "/markan-where/static/js/main.06bee27f.js.map"
+    "main.506b51fe.js.map": "/markan-where/static/js/main.506b51fe.js.map"
   },
   "entrypoints": [
     "static/css/main.39fd6a81.css",
-    "static/js/main.06bee27f.js"
+    "static/js/main.506b51fe.js"
   ]
 }
