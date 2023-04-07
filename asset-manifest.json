@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/markan-where/static/css/main.87ed7f9c.css",
-    "main.js": "/markan-where/static/js/main.96edd50c.js",
+    "main.css": "/markan-where/static/css/main.dcf5ea7b.css",
+    "main.js": "/markan-where/static/js/main.aa0ac72d.js",
     "static/media/Oakes-Grotesk-Bold.ttf": "/markan-where/static/media/Oakes-Grotesk-Bold.a6b9f0fbd8198bd97c6d.ttf",
     "static/media/Satoshi-Medium.ttf": "/markan-where/static/media/Satoshi-Medium.759562088ba19068aef8.ttf",
     "static/media/Satoshi-Bold.ttf": "/markan-where/static/media/Satoshi-Bold.137a52d9f47dd71c6247.ttf",
@@ -10,11 +10,11 @@
     "static/media/Satoshi-Medium.woff2": "/markan-where/static/media/Satoshi-Medium.1ffe968245568e8ba1e7.woff2",
     "static/media/Satoshi-Bold.woff2": "/markan-where/static/media/Satoshi-Bold.a0e6d25529eab537426c.woff2",
     "index.html": "/markan-where/index.html",
-    "main.87ed7f9c.css.map": "/markan-where/static/css/main.87ed7f9c.css.map",
-    "main.96edd50c.js.map": "/markan-where/static/js/main.96edd50c.js.map"
+    "main.dcf5ea7b.css.map": "/markan-where/static/css/main.dcf5ea7b.css.map",
+    "main.aa0ac72d.js.map": "/markan-where/static/js/main.aa0ac72d.js.map"
   },
   "entrypoints": [
-    "static/css/main.87ed7f9c.css",
-    "static/js/main.96edd50c.js"
+    "static/css/main.dcf5ea7b.css",
+    "static/js/main.aa0ac72d.js"
   ]
 }
