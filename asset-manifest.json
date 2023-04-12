@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.951e013b.css",
-    "main.js": "./static/js/main.5664b6f5.js",
+    "main.css": "./static/css/main.a53b46f4.css",
+    "main.js": "./static/js/main.40906191.js",
     "static/media/Oakes-Grotesk-Bold.ttf": "./static/media/Oakes-Grotesk-Bold.a6b9f0fbd8198bd97c6d.ttf",
     "static/media/Satoshi-Medium.ttf": "./static/media/Satoshi-Medium.759562088ba19068aef8.ttf",
     "static/media/Satoshi-Bold.ttf": "./static/media/Satoshi-Bold.137a52d9f47dd71c6247.ttf",
@@ -10,11 +10,11 @@
     "static/media/Satoshi-Medium.woff2": "./static/media/Satoshi-Medium.1ffe968245568e8ba1e7.woff2",
     "static/media/Satoshi-Bold.woff2": "./static/media/Satoshi-Bold.a0e6d25529eab537426c.woff2",
     "index.html": "./index.html",
-    "main.951e013b.css.map": "./static/css/main.951e013b.css.map",
-    "main.5664b6f5.js.map": "./static/js/main.5664b6f5.js.map"
+    "main.a53b46f4.css.map": "./static/css/main.a53b46f4.css.map",
+    "main.40906191.js.map": "./static/js/main.40906191.js.map"
   },
   "entrypoints": [
-    "static/css/main.951e013b.css",
-    "static/js/main.5664b6f5.js"
+    "static/css/main.a53b46f4.css",
+    "static/js/main.40906191.js"
   ]
 }
