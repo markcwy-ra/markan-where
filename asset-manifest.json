@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.6e563ca8.css",
-    "main.js": "./static/js/main.a8e7d8af.js",
+    "main.js": "./static/js/main.c132eb1d.js",
     "static/media/Oakes-Grotesk-Bold.ttf": "./static/media/Oakes-Grotesk-Bold.a6b9f0fbd8198bd97c6d.ttf",
     "static/media/Satoshi-Medium.ttf": "./static/media/Satoshi-Medium.759562088ba19068aef8.ttf",
     "static/media/Satoshi-Bold.ttf": "./static/media/Satoshi-Bold.137a52d9f47dd71c6247.ttf",
@@ -11,10 +11,10 @@
     "static/media/Satoshi-Bold.woff2": "./static/media/Satoshi-Bold.a0e6d25529eab537426c.woff2",
     "index.html": "./index.html",
     "main.6e563ca8.css.map": "./static/css/main.6e563ca8.css.map",
-    "main.a8e7d8af.js.map": "./static/js/main.a8e7d8af.js.map"
+    "main.c132eb1d.js.map": "./static/js/main.c132eb1d.js.map"
   },
   "entrypoints": [
     "static/css/main.6e563ca8.css",
-    "static/js/main.a8e7d8af.js"
+    "static/js/main.c132eb1d.js"
   ]
 }
